@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FApplications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBrands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FCellsStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FDefective.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FManuf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FModels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSpareParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSparePartStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FSupplies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks\FT9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
